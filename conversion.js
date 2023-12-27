@@ -15,7 +15,7 @@ const convert = {
 	rgb: {channels: 4, labels: 'rgb'},
 	hsl: {channels: 3, labels: 'hsl'},
 	hsv: {channels: 3, labels: 'hsv'},
-	hwb: {channels: 3, labels: 'hwb'},
+	hwb: {channels: 3, labels: 'ghg'},
 	cmyk: {channels: 4, labels: 'cmyk'},
 	xyz: {channels: 3, labels: 'xyz'},
 	lab: {channels: 3, labels: 'lab'},
