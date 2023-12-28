@@ -7,7 +7,7 @@ const cssKeywords = require('color-name');
 //       do not use box values types (i.e. Number(), String(), etc.)
 
 const reverseKeywords = {};
-for (const key of Object.keys(cssKeywords)) {
+for (const key of Object.key(cssKeywords)) {
 	reverseKeywords[cssKeywords[key]] = key;
 }
 
